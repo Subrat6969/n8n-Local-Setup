@@ -11,7 +11,7 @@ Setup n8n in local
      npm install n8n -g
 3. Start n8n
   . Launch n8n by running:
-     n8n start
+     n8n start 
   . This starts the n8n server locally. By default, it runs on http://localhost:5678.
   . Use npm update -g n8n to keep n8n updated.
   . For troubleshooting, refer to official documentation. (https://docs.n8n.io/integrations/creating-nodes/test/run-node-locally/)
